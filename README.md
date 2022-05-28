@@ -14,12 +14,12 @@
 <p align="left">
   In case you still want to know more about me 👉
   <a href="https://www.danifdz.dev/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gatsby.svg" alt="www.danifdz.dev" height="20" width="30" />
+    <img align="center" src="https://ico.now.sh/gatsby/495f7e" alt="www.danifdz.dev" height="20" width="30" />
   </a>
   <a href="https://twitter.com/dfernandeza" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dfernandeza" height="20" width="30" />
+    <img align="center" src="https://ico.now.sh/twitter/495f7e" alt="dfernandeza" height="20" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/imdanifdz/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dfernandeza1" height="20" width="30" />
+    <img align="center" src="https://ico.now.sh/linkedin/495f7e" alt="dfernandeza1" height="20" width="30" />
   </a>
 </p>
