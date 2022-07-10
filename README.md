@@ -3,8 +3,8 @@
 <p>👨🏻‍💻 Web/Frontend Developer</p>
 
 <p>
-  I have been doing software engineering for 10+ years, during which I have gained valuable knowledge and experience developing and architecting web applications for small, medium and large sized companies.
-  I really enjoy crafting high-quality web applications and I will be happy to jump and learn new technologies at any moment.
+  I've been doing software engineering for 10+ years, during which I have gained valuable knowledge and experience developing and architecting web applications for small, medium and large sized companies.
+  I really enjoy creating high-quality web applications using tools like React and NodeJS but I will be happy to jump and learn new technologies at any moment.
 </p>
 
 <p>
