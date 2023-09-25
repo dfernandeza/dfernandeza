@@ -8,6 +8,10 @@
 </p>
 
 <p>
+I've had the privilege of working across different markets, both in Europe and the Americas, gaining valuable insights into the unique challenges and opportunities that each region offers. This global perspective has enriched my approach to problem-solving and software development.``
+</p>
+
+<p>
   I also enjoy and have experience leading engineering teams and working with stakeholders to build successful software products.
 </p>
 
